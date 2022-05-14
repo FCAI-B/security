@@ -1,6 +1,9 @@
 # security
 ```diff
-- The final exams will be open from Tuesday 17 May to Friday 20 May (a total of 4 days), and there will be no new lecture on Saturday 14 May
+- The exams that will be open from Tuesday 17 May to Friday 20 May (a total of 4 days) are:
+ - PT Practice SA Part 1
+ - Course Feedback
+ - Final Exam
 
 ```
 
