@@ -4,7 +4,9 @@
 + 1) PT Practice SA Part 1
 + 2) Course Feedback
 + 3) Final Exam
-
+- Chapters 1,2,3, and 4 Exams are also opened (the degree will be less than who solved the first time)
++ This will be the last time to open any exam Insha Allah, please solve it in time.
++ Please inform all your colleuges.
 ```
 
 <!-- + zoom link: https://us05web.zoom.us/j/85205285866?pwd=bWVRSzNEbG1TendBSEJaZ3lkQithZz09  -->
