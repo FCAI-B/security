@@ -1,5 +1,7 @@
 # security
 
+- You have been added to the online CISCO course. Could you check your Edu Email for the course invitation.
+- The first lecture has been uploaded in this repo.
 
 <!--
 ```diff
