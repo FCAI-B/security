@@ -1,5 +1,11 @@
 # security
 
+#### ACL
+Could you check the uploaded ACL files and the below links for ACL videos
+- https://drive.google.com/file/d/1whGMjnh4tGnsadrLUWnJNKJLCdm5CMN0/view?usp=sharing
+- https://drive.google.com/file/d/1qtCUSbGjGxcYtKCCTrF8NjwYDScrWqXc/view?usp=sharing
+
+#### Netacad Course
 - You have been added to the online CISCO course. Could you check your Edu Email for the course invitation.
 - The first lecture has been uploaded in this repo.
 
