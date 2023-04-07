@@ -1,5 +1,11 @@
 # security
 
+
+#### Exam
+```diff
++ "Cryptography and Endpoint Protection Group Exam" is now open. We have to solve it before 21 April.
+```
+
 #### ACL
 Could you check the uploaded ACL files and the below links for ACL videos
 - https://drive.google.com/file/d/1whGMjnh4tGnsadrLUWnJNKJLCdm5CMN0/view?usp=sharing
