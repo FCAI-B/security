@@ -12,7 +12,8 @@
 
 #### Exam
 ```diff
-+ "Cryptography and Endpoint Protection Group Exam" is now open. We have to solve it before 21 April.
++ "Cryptography and Endpoint Protection Group Exam" is now open. 
+* We have to solve it before 21 April.
 ```
 
 #### ACL
