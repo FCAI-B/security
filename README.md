@@ -1,6 +1,14 @@
 # security
 
 
+#### Zoom Link
+```diff
+- I will be available Tomorrow at 09:30 pm for any questions and online course issues at the below Zoom link.
++ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+- Please inform all your colleagues.
+```
+ 
+
 #### Exam
 ```diff
 + "Cryptography and Endpoint Protection Group Exam" is now open. We have to solve it before 21 April.
