@@ -1,13 +1,13 @@
 # security
 
-
-#### Zoom Link
 ```diff
 + كل عام وانتم بخير
-- I will be available Tomorrow at 09:30 pm for any questions and online course issues at the below Zoom link.
-+ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
-- Please inform all your colleagues.
+* I will be available Tomorrow at 09:30 pm for any questions and course issues at the below Zoom link.
++ Please inform all your colleagues.
 ```
+
+#### Zoom Link
++ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
  
 
 #### Exam
