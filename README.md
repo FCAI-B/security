@@ -1,11 +1,11 @@
 # security
 
 
-#### Exam
+#### Exams
 ```diff
 + "CyberOps Associate 1.0 Final exam" is now open. We have to solve it before 14 May.
   - (to be able to take this assessment, we need to do the Course Feedback first)
-+ Oral degrees will depend on these online quizzes.
++ Oral degrees will depend on these online Exams.
 ```
 
 <!--
