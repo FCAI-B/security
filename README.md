@@ -1,12 +1,13 @@
 # security
 
-
+<!--
 #### Exams
 ```diff
 + "CyberOps Associate 1.0 Final exam" is now open. We have to solve it before 14 May.
   - (to be able to take this assessment, we need to do the Course Feedback first)
 + Oral degrees will depend on these online Exams.
 ```
+-->
 
 <!--
 #### Exam
@@ -30,12 +31,12 @@
  -->
 
 
-
+<!--
 #### ACL
 Could you check the uploaded ACL files and the below links for ACL videos
 - https://drive.google.com/file/d/1whGMjnh4tGnsadrLUWnJNKJLCdm5CMN0/view?usp=sharing
 - https://drive.google.com/file/d/1qtCUSbGjGxcYtKCCTrF8NjwYDScrWqXc/view?usp=sharing
-
+-->
 <!--
 #### Netacad Course
 - You have been added to the online CISCO course. Could you check your Edu Email for the course invitation.
