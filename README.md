@@ -1,5 +1,10 @@
 # Security
 
+### Skills for All (CISCO Networking Academy)
+- You have been invited to the Ethical Hacker course
+- Please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
+---
+
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
 - Saturday 02:00 pm
