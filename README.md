@@ -2,7 +2,7 @@
 
 ### Lectures
 - Lectures 1 and 2: please check the above folders
-- Lectures 3: please check the Skills for All course: Module 3 (We will continue next Lecture)
+- Lectures 3: please check the Skills for All course: Module 3 (We will continue in the following Lecture)
 ---
 
 ### Skills for All (CISCO Networking Academy)
