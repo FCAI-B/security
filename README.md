@@ -1,5 +1,10 @@
 # Security
 
+### Lectures
+- Lectures 1 and 2: please check the above folders
+- Lectures 3: please check the Skills for All course: Module 3 (We will continue next Lecture)
+---
+
 ### Skills for All (CISCO Networking Academy)
 - You have been invited to the Ethical Hacker course
 - Please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
