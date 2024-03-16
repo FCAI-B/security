@@ -5,6 +5,13 @@
 - Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
 ---
 
+### Tasks to do
+Please do the following (<ins>deadline **26 March**</ins>)
+```diff
+- Module 3: Assessment Quiz (3.5.3)
+```
+---
+
 ### Skills for All (CISCO Networking Academy)
 - You have been invited to the Ethical Hacker course
 - Please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
