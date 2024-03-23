@@ -3,6 +3,7 @@
 ### Lectures
 - Lectures 1, 2, and 3: please check the above folders
 - Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
+- Lectures 6: please check the Skills for All course (Ethical Hacker): Module 6
 ---
 
 ### Tasks to do
