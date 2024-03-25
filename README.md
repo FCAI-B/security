@@ -13,10 +13,30 @@ Please do the following (<ins>deadline **26 March**</ins>)
 ```
 ---
 
+
+### Adding to the Online Course
+If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
+- Your full Arabic name, as shown on your official faculty ID (four names at least)
+- Your program (IS, SC, AI, ...)
+- Your level (4th, 3rd, 2nd, ...)
+- Your course name (Cloud, Data Analytics, Security, ...)
+- Your Academic mail (ended by fci.bu.edu.eg)
+
+ ```diff
+- After being added to the Academy, please keep your email and Arabic Full name as it is
++ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
++ Furthermore, the online course is on an academic platform, so we need to use our Academic emails
+! When you receive the invitation, please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
++ It would be better if you all collaborate to send all students' names on one sheet (Excel File) in one email.
+``` 
+---
+
+<!--
 ### Skills for All (CISCO Networking Academy)
 - You have been invited to the Ethical Hacker course
 - Please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
 ---
+-->
 
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
