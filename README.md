@@ -7,7 +7,7 @@
 ---
 
 ### Tasks to do
-Please do the following (<ins>deadline **26 March**</ins>)
+Please do the following (<ins>deadline **31 March** *(extended)* </ins>)
 ```diff
 - Module 3: Assessment Quiz (3.5.3)
 ```
