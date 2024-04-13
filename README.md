@@ -1,5 +1,11 @@
 # Security
 
+<!--
+```diff
+-  The next lectures will be on 22 April at "Modareg 5", Insha Allah. 
+```
+-->
+
 ### Lectures
 - Lectures 1, 2, and 3: please check the above folders
 - Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
