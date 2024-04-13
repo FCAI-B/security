@@ -6,13 +6,14 @@
 - Lectures 6: please check the Skills for All course (Ethical Hacker): Module 6
 ---
 
+<!--
 ### Tasks to do
 Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 ```diff
 - Module 3: Assessment Quiz (3.5.3)
 ```
 ---
-
+-->
 
 ### Adding to the Online Course
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
@@ -38,9 +39,11 @@ If you are not added, please send an email from your Academic mail (ended by fci
 ---
 -->
 
+<!--
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
 - Saturday 02:00 pm
+-->
 
 <!--
 ### Adding to AWS Academy
