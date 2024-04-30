@@ -10,13 +10,17 @@ Please do the following (<ins>deadline **3 May** </ins>)
 
 
 ### Lectures
+
+- Lectures 1, 2, and 3: please check the above folders
+- Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
+- Lectures 6, 7, and 8: please check the Skills for All course (Ethical Hacker): Module 6
+---
+
+<!--
 ```diff
 +  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
 ```
-- Lectures 1, 2, and 3: please check the above folders
-- Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
-- Lectures 6 and 7: please check the Skills for All course (Ethical Hacker): Module 6
----
+-->
 
 <!--
 ### Tasks to do
