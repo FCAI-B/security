@@ -1,6 +1,6 @@
 # To have degrees from the online tasks in the Security course
 ```diff
-- Your name at https://skillsforall.com/ must be in Arabic as appears in your official academic ID (full name)
+- Your first name at https://skillsforall.com/ must be in Arabic as appears in your official academic ID (full name)
 - Your email at https://skillsforall.com/ must be your official Edu mail as appears in your official academic ID
 ```
 ---
