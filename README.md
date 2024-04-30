@@ -1,10 +1,20 @@
-# Security
-
+# To have degrees from the online tasks in the Security course
+```diff
+- Your name at https://skillsforall.com/ must be in Arabic as appears in your official academic ID (full name)
+- Your email at https://skillsforall.com/ must be your official Edu mail as appears in your official academic ID
+```
+---
 
 ### Tasks to do
+Please do the following (<ins>deadline **15 May** </ins>)
+```diff
+- Ethical Hacker: Course Final Exam (important)
++ ( You may need to finish the End of Course Survey first)
+```
+
 Please do the following (<ins>deadline **3 May** </ins>)
 ```diff
-- Module 6: Assessment Quiz
++ Module 6: Assessment Quiz
 ```
 ---
 
