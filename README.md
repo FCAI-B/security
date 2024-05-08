@@ -5,6 +5,8 @@
 ```
 ---
 
+### We have finished our lectures. 
+
 ### Tasks to do
 Please do the following (<ins>deadline **15 May** </ins>)
 ```diff
@@ -12,15 +14,17 @@ Please do the following (<ins>deadline **15 May** </ins>)
 + ( You may need to finish the End of Course Survey first)
 ```
 
+<!--
 Please do the following (<ins>deadline **3 May** </ins>)
 ```diff
 + Module 6: Assessment Quiz
 ```
+-->
+
 ---
 
 
 ### Lectures
-
 - Lectures 1, 2, and 3: please check the above folders
 - Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
 - Lectures 6, 7, and 8: please check the Skills for All course (Ethical Hacker): Module 6
