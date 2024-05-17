@@ -5,6 +5,10 @@
 ```
 ---
 
+
+
+<!--
+
 ### We have finished our lectures. 
 
 ### Tasks to do
@@ -14,7 +18,8 @@ Please do the following (<ins>deadline **15 May** </ins>)
 + ( You may need to finish the End of Course Survey first)
 ```
 
-<!--
+
+
 Please do the following (<ins>deadline **3 May** </ins>)
 ```diff
 + Module 6: Assessment Quiz
