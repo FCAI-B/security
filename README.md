@@ -1,9 +1,45 @@
+
+```diff
+- There are no lectures on 8 and 9 Feb 2025
+```
+
+<!--
 # To have degrees from the online tasks in the Security course
 ```diff
 - Your first name at https://skillsforall.com/ must be in Arabic as appears in your official academic ID (full name)
 - Your email at https://skillsforall.com/ must be your official Edu mail as appears in your official academic ID
 ```
 ---
+-->
+
+<!--
+### Lectures
+- Lectures 1, 2, and 3: please check the above folders
+- Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
+- Lectures 6, 7, and 8: please check the Skills for All course (Ethical Hacker): Module 6
+---
+-->
+
+<!--
+### Adding to the Online Course
+If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
+- Your full Arabic name, as shown on your official faculty ID (four names at least)
+- Your program (IS, SC, AI, ...)
+- Your level (4th, 3rd, 2nd, ...)
+- Your course name (Cloud, Data Analytics, Security, ...)
+- Your Academic mail (ended by fci.bu.edu.eg)
+
+ ```diff
+- After being added to the Academy, please keep your email and Arabic Full name as it is
++ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
++ Furthermore, the online course is on an academic platform, so we need to use our Academic emails
+! When you receive the invitation, please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
++ It would be better if you all collaborate to send all students' names on one sheet (Excel File) in one email.
+``` 
+---
+-->
+
+
 
 
 
@@ -29,11 +65,6 @@ Please do the following (<ins>deadline **3 May** </ins>)
 ---
 
 
-### Lectures
-- Lectures 1, 2, and 3: please check the above folders
-- Lectures 4 and 5: please check the Skills for All course (Ethical Hacker): Module 3
-- Lectures 6, 7, and 8: please check the Skills for All course (Ethical Hacker): Module 6
----
 
 <!--
 ```diff
@@ -50,22 +81,6 @@ Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 ---
 -->
 
-### Adding to the Online Course
-If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
-- Your full Arabic name, as shown on your official faculty ID (four names at least)
-- Your program (IS, SC, AI, ...)
-- Your level (4th, 3rd, 2nd, ...)
-- Your course name (Cloud, Data Analytics, Security, ...)
-- Your Academic mail (ended by fci.bu.edu.eg)
-
- ```diff
-- After being added to the Academy, please keep your email and Arabic Full name as it is
-+ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
-+ Furthermore, the online course is on an academic platform, so we need to use our Academic emails
-! When you receive the invitation, please check your Edu Mail (all inboxes, including Junk, Clutter, ...)
-+ It would be better if you all collaborate to send all students' names on one sheet (Excel File) in one email.
-``` 
----
 
 <!--
 ### Skills for All (CISCO Networking Academy)
