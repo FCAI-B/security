@@ -1,6 +1,6 @@
 
 ```diff
-- There are no lectures on 8 and 9 Feb 2025
+- There are no lectures on 15 and 16 Feb 2025
 ```
 
 <!--
