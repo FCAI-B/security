@@ -1,7 +1,8 @@
-
+<!--
 ```diff
 - There are no lectures on 15 and 16 Feb 2025
 ```
+-->
 
 <!--
 # To have degrees from the online tasks in the Security course
