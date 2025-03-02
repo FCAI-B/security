@@ -1,3 +1,18 @@
+#Security 
+
+## Meet Links
+- Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
+- Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
+  
+## Lectures
+
+- Lecture 1: The above files EH_M1 and EH_M2
+- Lecture 2:
+  
+<!--
+https://youtu.be/Gck83h_iuvo
+-->
+
 <!--
 ```diff
 - There are no lectures on 15 and 16 Feb 2025
