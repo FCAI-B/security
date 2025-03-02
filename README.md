@@ -1,4 +1,4 @@
-#Security 
+# Security 
 
 ## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
@@ -7,10 +7,10 @@
 ## Lectures
 
 - Lecture 1: The above files EH_M1 and EH_M2
-- Lecture 2:
+- Lecture 2: https://youtu.be/Gck83h_iuvo 
   
 <!--
-https://youtu.be/Gck83h_iuvo
+& https://youtu.be/OFdqPPbklsY
 -->
 
 <!--
