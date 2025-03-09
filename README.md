@@ -17,6 +17,13 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 ```
 ---
 
+## To have degrees from the online tasks in the CISCO course
+```diff
+- Your first name at https://www.netacad.com/ must be in Arabic as appears in your official academic ID (full name)
+- Your email at https://www.netacad.com/ must be your official Edu mail as appears in your official academic ID
+```
+---
+
 <!--
 ```diff
 - There are no lectures on 15 and 16 Feb 2025
@@ -24,12 +31,6 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 -->
 
 
-# To have degrees from the online tasks in the CISCO course
-```diff
-- Your first name at https://www.netacad.com/ must be in Arabic as appears in your official academic ID (full name)
-- Your email at https://www.netacad.com/ must be your official Edu mail as appears in your official academic ID
-```
----
 
 
 <!--
