@@ -1,17 +1,21 @@
-# Security 
-
 ## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
-  
-## Lectures
+---
 
-- Lecture 1: The above files EH_M1 and EH_M2
-- Lecture 2: https://youtu.be/Gck83h_iuvo 
-  
-<!--
-& https://youtu.be/OFdqPPbklsY
--->
+## The Lectures (from the Ethical Hacker course at CISCO Academy)
+- Lecture 1: Module 1 + Module 2
+- Lecture 2: Module 3 + https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY
+- Lecture 3: Module 3 
+---
+
+### Tasks to do
+Please do the following (<ins>deadline **19 Mar** </ins>)
+```diff
++ Module 1: Module Exam
++ Module 2: Module Exam
+```
+---
 
 <!--
 ```diff
@@ -63,7 +67,7 @@ If you are not added, please send an email from your Academic mail (ended by fci
 
 ### We have finished our lectures. 
 
-### Tasks to do
+
 Please do the following (<ins>deadline **15 May** </ins>)
 ```diff
 - Ethical Hacker: Course Final Exam (important)
@@ -72,13 +76,10 @@ Please do the following (<ins>deadline **15 May** </ins>)
 
 
 
-Please do the following (<ins>deadline **3 May** </ins>)
-```diff
-+ Module 6: Assessment Quiz
-```
+
 -->
 
----
+
 
 
 
