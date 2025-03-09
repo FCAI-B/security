@@ -3,10 +3,12 @@
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 ---
 
-## The Lectures (from the Ethical Hacker course at CISCO Academy)
-- Lecture 1: Module 1 + Module 2
-- Lecture 2: Module 3 + https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY
-- Lecture 3: Module 3 
+## Course Content (from the Ethical Hacker course at CISCO Academy)
+- Module 1
+- Module 2
+- Module 3
+- https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY
+  
 ---
 
 ### Tasks to do
