@@ -7,7 +7,8 @@
 - Module 1
 - Module 2
 - Module 3
-- https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY
+- https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY & https://youtu.be/OtbNPao-9AM
+- Module 6
   
 ---
 
