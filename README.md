@@ -9,10 +9,14 @@
 - Module 3
 - https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY & https://youtu.be/OtbNPao-9AM
 - Module 6
-  
+  <!-- - https://youtu.be/2TFJXpG0oF0 & --->
 ---
 
 ### Tasks to do
+Please do the following (<ins>deadline **28 Mar** </ins>)
+```diff
++ Module 3: Module Exam 
+```
 Please do the following (<ins>deadline **19 Mar** </ins>)
 ```diff
 + Module 1: Module Exam
