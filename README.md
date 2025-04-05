@@ -1,4 +1,7 @@
 ## Meet Links
+```diff
+- The 6th April lecture will be online at 08:30 pm at the below links:
+```
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 ---
