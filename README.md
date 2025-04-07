@@ -1,7 +1,22 @@
-## Meet Links
+<!--
 ```diff
 - The 6th April lecture will be online at 08:30 pm at the below links:
 ```
+
+### Tasks to do
+Please do the following (<ins>deadline **28 Mar** </ins>)
+```diff
++ Module 3: Module Exam 
+```
+Please do the following (<ins>deadline **19 Mar** </ins>)
+```diff
++ Module 1: Module Exam
++ Module 2: Module Exam
+```
+---
+-->
+
+## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 ---
@@ -16,17 +31,6 @@
 - https://youtu.be/2TFJXpG0oF0 & https://youtu.be/22ICDyIWm-w
 ---
 
-### Tasks to do
-Please do the following (<ins>deadline **28 Mar** </ins>)
-```diff
-+ Module 3: Module Exam 
-```
-Please do the following (<ins>deadline **19 Mar** </ins>)
-```diff
-+ Module 1: Module Exam
-+ Module 2: Module Exam
-```
----
 
 ## To have degrees from the online tasks in the CISCO course
 ```diff
