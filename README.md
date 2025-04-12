@@ -36,7 +36,12 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 - https://youtu.be/2TFJXpG0oF0 & https://youtu.be/22ICDyIWm-w
 ---
 
-
+### Tasks to do
+Please do the following (<ins>deadline **24 April** </ins>)
+```diff
++ Module 6: Module Exam 
+```
+---
 ## To have degrees from the online tasks in the CISCO course
 ```diff
 - Your first name at https://www.netacad.com/ must be in Arabic as appears in your official academic ID (full name)
