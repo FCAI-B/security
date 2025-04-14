@@ -18,11 +18,14 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 + Module 2: Module Exam
 ```
 ---
--->
 
 ```diff
 - The 13th April lecture will be in the faculty at 1:30 pm in Modareg 5.
 ```
+
+-->
+
+
 
 ---
 
