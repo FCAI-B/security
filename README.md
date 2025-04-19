@@ -26,6 +26,9 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 -->
 
 
+```diff
+- The 20th April lecture will be in the faculty at 1:30 pm in Modareg 5.
+```
 
 ---
 
