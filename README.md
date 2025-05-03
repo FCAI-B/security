@@ -27,7 +27,7 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 
 
 ```diff
-- The 20th April lecture will be in the faculty at 1:30 pm in Modareg 5.
++ The 04th May lecture will be in the faculty at 1:30 pm in Modareg 5.
 ```
 
 ---
@@ -40,6 +40,7 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 - https://youtu.be/OtbNPao-9AM & https://youtu.be/c0CS5O6qAUU
 - Module 6
 - https://youtu.be/2TFJXpG0oF0 & https://youtu.be/22ICDyIWm-w
+- Module 8
 ---
 
 ### Tasks to do
