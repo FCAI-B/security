@@ -19,12 +19,12 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 ```diff
 - The 13th April lecture will be in the faculty at 1:30 pm in Modareg 5.
 ```
-
++ The 04th May lecture will be in the faculty at 1:30 pm in Modareg 5.
 -->
 
 
 ```diff
-+ The 04th May lecture will be in the faculty at 1:30 pm in Modareg 5.
++ The 04th May lecture time will be updated soon.
 ```
 ## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
