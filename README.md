@@ -24,7 +24,7 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 
 
 ```diff
-+ The 04th May lecture time will be updated soon.
++ The 04th May lecture will be online at the links below
 ```
 ## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
