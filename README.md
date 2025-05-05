@@ -20,17 +20,26 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 - The 13th April lecture will be in the faculty at 1:30 pm in Modareg 5.
 ```
 + The 04th May lecture will be in the faculty at 1:30 pm in Modareg 5.
--->
 
++ The 04th May lecture will be online at the links below
+
+Please do the following (<ins>deadline **24 April** </ins>)
+```diff
++ Module 6: Module Exam 
 
 ```diff
-+ The 04th May lecture will be online at the links below
+
 ```
 ## Meet Links
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 
 ---
+
+
+-->
+
+
 
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
 - Module 1
@@ -44,9 +53,11 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 ---
 
 ### Tasks to do
-Please do the following (<ins>deadline **24 April** </ins>)
+Please do the following (<ins>deadline **31 May** </ins>)
 ```diff
-+ Module 6: Module Exam 
++ Module 8: Module Exam
++ Course Final Exam
++ End of Course Survey
 ```
 ---
 ## To have degrees from the online tasks in the CISCO course
