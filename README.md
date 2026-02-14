@@ -36,9 +36,11 @@ Please do the following (<ins>deadline **24 April** </ins>)
 
 ---
 
-
 -->
 
+```diff
++ We will start our courses in the faculty tomorrow, 15 Feb 2026.
+```
 
 
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
