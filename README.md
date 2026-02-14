@@ -44,13 +44,16 @@ Please do the following (<ins>deadline **24 April** </ins>)
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
 - Module 1
 - Module 2
+
+---
+
+<!--
 - Module 3
 - https://youtu.be/Gck83h_iuvo & https://youtu.be/OFdqPPbklsY
 - https://youtu.be/OtbNPao-9AM & https://youtu.be/c0CS5O6qAUU
 - Module 6
 - https://youtu.be/2TFJXpG0oF0 & https://youtu.be/22ICDyIWm-w
 - Module 8
----
 
 ### Tasks to do
 Please do the following (<ins>deadline **31 May** </ins>)
@@ -60,6 +63,8 @@ Please do the following (<ins>deadline **31 May** </ins>)
 + End of Course Survey
 ```
 ---
+-->
+
 ## To have degrees from the online tasks in the CISCO course
 ```diff
 - Your first name at https://www.netacad.com/ must be in Arabic as appears in your official academic ID (full name)
