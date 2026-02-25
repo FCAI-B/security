@@ -42,9 +42,9 @@ Please do the following (<ins>deadline **24 April** </ins>)
 # Information Security
 
 ```diff
-+ At **1 pm** on Thursday, 19 Feb, we will have our Data Warehousing lecture online, Insha Allah 
-+ At **2 pm** on Thursday, 19 Feb, we will have our Information Security lecture online, Insha Allah
-* https://meet.google.com/qcn-nheh-ehe
++ At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
++ At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
+* Meet Link: https://meet.google.com/qcn-nheh-ehe
 ```
 
 
