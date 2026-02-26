@@ -46,7 +46,7 @@ Please do the following (<ins>deadline **24 April** </ins>)
 + At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
 + At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
 
-- New Link: now: Video call link: https://meet.google.com/pui-jicc-szz
+- New Link: (Today 26 Feb after 1st session): https://meet.google.com/pui-jicc-szz
 ```
 
 
