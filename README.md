@@ -34,6 +34,7 @@ Please do the following (<ins>deadline **24 April** </ins>)
 - Sunday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Sunday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 + We will start our courses in the faculty tomorrow, 15 Feb 2026.
+* Meet Link: https://meet.google.com/qcn-nheh-ehe
 ---
 
 -->
@@ -44,7 +45,8 @@ Please do the following (<ins>deadline **24 April** </ins>)
 ```diff
 + At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
 + At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
-* Meet Link: https://meet.google.com/qcn-nheh-ehe
+
+- New Link: now: Video call link: https://meet.google.com/pui-jicc-szz
 ```
 
 
