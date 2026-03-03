@@ -43,11 +43,14 @@ Please do the following (<ins>deadline **24 April** </ins>)
 # Information Security
 
 ```diff
-+ At **1 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
-+ At **2 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
++ At **1:30 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
++ At **2:15 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
 
-- New Link: (Today 26 Feb after 1st session): https://meet.google.com/pui-jicc-szz
 ```
+* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
+* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+---
+
 
 
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
