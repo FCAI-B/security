@@ -47,8 +47,8 @@ Please do the following (<ins>deadline **24 April** </ins>)
 + At **2:15 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
 
 ```
-* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
-* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+* Meet Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
+* Meet Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
 ---
 
 
@@ -56,6 +56,10 @@ Please do the following (<ins>deadline **24 April** </ins>)
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
 - Module 1
 - Module 2
+- Module 3 (Study the course content and the below videos)
+  - https://www.youtube.com/watch?v=Gck83h_iuvo
+  - https://www.youtube.com/watch?v=OFdqPPbklsY
+
 
 ---
 
