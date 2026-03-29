@@ -42,14 +42,18 @@ Please do the following (<ins>deadline **24 April** </ins>)
 
 * Meet Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
 * Meet Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+
++ Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
++ Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
 -->
 
 
 # Information Security
 
 ```diff
-+ Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
-+ Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
+- The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
+- The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
+
 
 ```
 
