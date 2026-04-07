@@ -45,14 +45,19 @@ Please do the following (<ins>deadline **24 April** </ins>)
 
 + Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
 + Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
+- The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
+- The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
 -->
 
 
 # Information Security
 
 ```diff
-- The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
-- The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
++ The following exams are open at the CISCO Networking Academy. Please solve before 20 April.
+  + Module 1: Module Exam
+  + Module 2: Module Exam 
+
+
 
 
 ```
