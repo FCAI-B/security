@@ -1,8 +1,5 @@
 <!--
-```diff
-- The 6th April lecture will be online at 08:30 pm at the below links:
-```
----
+
 
 ### Tasks to do
 Please do the following (<ins>deadline **28 Mar** </ins>)
@@ -51,8 +48,14 @@ Please do the following (<ins>deadline **24 April** </ins>)
 
 
 # Information Security
-
 ```diff
++ Our next lectures will be on Sunday, 19 April, at Hall 5 (Modareg 5), Insha Allah. 
+```
+---
+
+## Tasks to do
+```diff
+
 + The following exams are open at the CISCO Networking Academy. Please solve before 20 April.
   + Module 1: Module Exam
   + Module 2: Module Exam 
