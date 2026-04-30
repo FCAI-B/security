@@ -81,7 +81,7 @@ Please do the following (<ins>deadline **24 April** </ins>)
   - https://www.youtube.com/watch?v=OFdqPPbklsY
   - https://www.youtube.com/watch?v=OtbNPao-9AM
   - https://www.youtube.com/watch?v=c0CS5O6qAUU
-- Module 3 (Study the course content and the videos below)
+- Module 6 (Study the course content and the videos below)
   - https://www.youtube.com/watch?v=2TFJXpG0oF0
   - https://www.youtube.com/watch?v=22ICDyIWm-w
 
