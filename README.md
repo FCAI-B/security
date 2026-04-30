@@ -44,21 +44,25 @@ Please do the following (<ins>deadline **24 April** </ins>)
 + Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
 - The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
 - The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
--->
 
 
-# Information Security
 ```diff
 + Our next lectures will be on Sunday, 19 April, at Hall 5 (Modareg 5), Insha Allah. 
 ```
 ---
 
+
+-->
+
+
+# Information Security
+
 ## Tasks to do
 ```diff
 
-+ The following exams are open at the CISCO Networking Academy. Please solve before 20 April.
-  + Module 1: Module Exam
-  + Module 2: Module Exam 
+- The following exams are open at the CISCO Networking Academy. Please solve before 12 May.
+  + Module 3: Module Exam
+  + Module 6: Module Exam 
 
 
 
@@ -72,11 +76,14 @@ Please do the following (<ins>deadline **24 April** </ins>)
 ## Course Content (from the Ethical Hacker course at CISCO Academy)
 - Module 1
 - Module 2
-- Module 3 (Study the course content and the below videos)
+- Module 3 (Study the course content and the videos below)
   - https://www.youtube.com/watch?v=Gck83h_iuvo
   - https://www.youtube.com/watch?v=OFdqPPbklsY
   - https://www.youtube.com/watch?v=OtbNPao-9AM
   - https://www.youtube.com/watch?v=c0CS5O6qAUU
+- Module 3 (Study the course content and the videos below)
+  - https://www.youtube.com/watch?v=2TFJXpG0oF0
+  - https://www.youtube.com/watch?v=22ICDyIWm-w
 
 
 ---
