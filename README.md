@@ -46,16 +46,21 @@ Please do the following (<ins>deadline **24 April** </ins>)
 - The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
 
 
-```diff
 + Our next lectures will be on Sunday, 19 April, at Hall 5 (Modareg 5), Insha Allah. 
-```
----
+
 
 
 -->
 
 
 # Information Security
+
+```diff
++ Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah. 
+
+```
+---
+
 
 ## Tasks to do
 ```diff
