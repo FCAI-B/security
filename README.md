@@ -59,6 +59,9 @@ Please do the following (<ins>deadline **24 April** </ins>)
 + Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah. 
 
 ```
+* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
+* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+
 ---
 
 
