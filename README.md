@@ -50,11 +50,6 @@ Please do the following (<ins>deadline **24 April** </ins>)
 
 
 
--->
-
-
-# Information Security
-
 ```diff
 + Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah. 
 
@@ -63,16 +58,22 @@ Please do the following (<ins>deadline **24 April** </ins>)
 * Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
 
 ---
-
-
-## Tasks to do
-```diff
-
 - The following exams are open at the CISCO Networking Academy. Please solve before 12 May.
   + Module 3: Module Exam
   + Module 6: Module Exam 
 
 
+-->
+
+
+# Information Security
+
+## Tasks to do
+```diff
+
+- The following exams are open at the CISCO Networking Academy. Please solve before 2 June. 
+  + Ethical Hacker: Course Final Exam
+  + End of Course Survey (You may need to do this survey to open the Final Exam) 
 
 
 ```
